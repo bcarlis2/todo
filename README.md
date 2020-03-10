@@ -1,3 +1,3 @@
 # todo
 
-- [] Setup To-Do List
+- [ ] Setup To-Do List
